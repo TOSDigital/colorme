@@ -1,0 +1,31 @@
+.but{
+    text-decoration: none;
+    color: white;
+}
+.but:hover{
+    color: #c79a87;
+}
+.but1{
+    width: 150px;
+    height: 40px;
+    background: #c79a87;
+    margin: .5%; 
+    border: none;
+    border-radius: 20px;
+}
+.but1:hover{
+    background: none;
+    border: solid 3px #c79a87;
+}
+.butholder{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+.map{
+    width: 30px;
+}
+.testimonialscont{
+    font-size: 12px;
+    margin: 13px;
+}
